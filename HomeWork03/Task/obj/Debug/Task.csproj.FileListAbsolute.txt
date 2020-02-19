@@ -1,0 +1,6 @@
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\bin\Debug\Task.exe.config
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\bin\Debug\Task.exe
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\bin\Debug\Task.pdb
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\obj\Debug\Task.exe
+C:\Users\usenz\Desktop\EPAM\HomeWork\HomeWork03\Task\obj\Debug\Task.pdb

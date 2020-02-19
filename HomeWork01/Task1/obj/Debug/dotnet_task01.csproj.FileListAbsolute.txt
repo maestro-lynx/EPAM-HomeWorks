@@ -1,0 +1,7 @@
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.exe.config
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.exe
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.pdb
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.csprojAssemblyReference.cache
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.csproj.CoreCompileInputs.cache
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.exe
+C:\Users\usenz\source\repos\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.pdb

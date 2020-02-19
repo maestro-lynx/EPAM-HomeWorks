@@ -1,0 +1,6 @@
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.exe
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\obj\Debug\dotnet_task01.pdb
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.exe.config
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.exe
+C:\Users\usenz\Desktop\EPAM\HomeWork\1\dotnet_task01\dotnet_task01\bin\Debug\dotnet_task01.pdb
